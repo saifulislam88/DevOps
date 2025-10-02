@@ -23,6 +23,8 @@
    - Redis Server
    - RabbitMQ
    - FTP
+   - Gitlab
+   - Minio S3
    - Squid Proxy - Transparent
    - [Fullstack Application](https://github.com/saifulislam88/fullstack-app-linux) 
   
